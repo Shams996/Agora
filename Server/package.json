@@ -1,9 +1,17 @@
 {
-  "scripts": {
-   "start": "node Index.js"
-},
   "dependencies": {
     "agora-access-token": "^2.0.4",
     "express": "^4.18.1"
-  }
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "main": "Index.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
